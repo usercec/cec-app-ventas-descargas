@@ -11,6 +11,6 @@
                       "Desde el bloqueo se puede enviar lo pendiente"
                   ],
     "obligatoria":  false,
-    "plazoHoras":  24,
+    "plazoHoras":  0,
     "publicada":  "2026-11-18T16:18:54"
 }
