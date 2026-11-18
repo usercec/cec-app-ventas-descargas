@@ -1,16 +1,16 @@
 {
-    "versionCode":  329,
-    "version":  "3.2.9",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.9.apk",
-    "sha256":  "bd8e72c8221a20ead77b19c52dded6ab7b7490c489e111b3b059179f9b922eb4",
+    "versionCode":  330,
+    "version":  "3.2.10",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.10.apk",
+    "sha256":  "8b451c5bfa395241734b44baad67fe9ec3004e8c12d9b5a5669f396449aa2c7c",
     "tamano":  56821517,
     "notas":  "Ajustes del Inicio y del aviso de actualización.",
     "novedades":  [
-                      "Se ocultó \"Meta del mes\" y el botón \"Indicadores de gestión\"",
+                      "Se ocultó Meta del mes y el botón Indicadores de gestión",
                       "Cada versión nueva tiene 24 horas para instalarse; después la app se bloquea",
-                      "Desde el bloqueo se puede enviar lo pendiente"
+                      "El bloqueo funciona aunque no haya señal"
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-18T16:30:26"
+    "publicada":  "2026-11-18T17:29:40"
 }
