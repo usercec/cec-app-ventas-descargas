@@ -1,10 +1,15 @@
 {
-    "versionCode":  322,
-    "version":  "3.2.2",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.2.apk",
-    "sha256":  "cb77886c20ad78301b70eebe1f52055f6b63eafd3df2ad9349010fb85454b27d",
-    "tamano":  56665869,
-    "notas":  "Versión de prueba del actualizador automático.",
+    "versionCode":  324,
+    "version":  "3.2.4",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.4.apk",
+    "sha256":  "dde9ad2fd385b31b9941fc30e4112d352d38f8d7996310c09376a80882c6d78b",
+    "tamano":  56715021,
+    "notas":  "Prueba de la lista de novedades.",
+    "novedades":  [
+                      "Actualización automática de la app sin pasar por WhatsApp",
+                      "Al tocar \"Qué trae esta versión\" se ve esta lista",
+                      "Tus datos y tu sesión se conservan al actualizar"
+                  ],
     "obligatoria":  false,
-    "publicada":  "2026-11-18T14:50:06"
+    "publicada":  "2026-11-18T15:02:24"
 }
