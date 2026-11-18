@@ -1,15 +1,16 @@
 {
-    "versionCode":  326,
-    "version":  "3.2.6",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.6.apk",
-    "sha256":  "dd9814d589f9054a9b1f8c35df18c5af82092dc219e079cc6c76e99ceb19d063",
-    "tamano":  56796941,
-    "notas":  "Prueba de actualización obligatoria.",
+    "versionCode":  328,
+    "version":  "3.2.8",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.8.apk",
+    "sha256":  "0e25fc1c099bc5d4f52079e9589f12ec286390eca1f8de5c49d15953b04ef056",
+    "tamano":  56821517,
+    "notas":  "Prueba del plazo de 24 horas.",
     "novedades":  [
-                      "La app revisa si hay versión nueva al abrirla, al volver a ella y al actualizar datos",
-                      "Botón \"Buscar actualizaciones\" en el menú",
-                      "Después de actualizar ves lo nuevo una sola vez"
+                      "Cada versión nueva tiene 24 horas para instalarse",
+                      "Vencido el plazo, la app se bloquea hasta actualizar",
+                      "Desde el bloqueo se puede enviar lo pendiente"
                   ],
-    "obligatoria":  true,
-    "publicada":  "2026-11-18T15:26:27"
+    "obligatoria":  false,
+    "plazoHoras":  24,
+    "publicada":  "2026-11-18T16:18:54"
 }
