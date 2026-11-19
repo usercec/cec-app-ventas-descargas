@@ -1,14 +1,14 @@
 {
-    "versionCode":  331,
-    "version":  "3.2.11",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.11.apk",
-    "sha256":  "3f195af38b9c43b4ee83894359387793ac53e2824d280d7674cf9d6068dbdcb7",
+    "versionCode":  332,
+    "version":  "3.2.12",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.12.apk",
+    "sha256":  "31b1b01bb500cbb57e522e6e07becf52b313e5e839a9c6ee28037ff4b8a4e23c",
     "tamano":  56829709,
-    "notas":  "Aviso de artículos sin agregar al pedido.",
+    "notas":  "En el cobro salen solo los bancos de tu centro.",
     "novedades":  [
-                      "Si le pusiste cantidad a un artículo y no tocaste el carrito naranja, la app te avisa antes de seguir y te deja agregarlo"
+                      "Al cobrar, la lista de bancos muestra solo las cuentas del centro de tu ruta y las de toda la empresa"
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-19T08:19:09"
+    "publicada":  "2026-11-19T10:33:03"
 }
