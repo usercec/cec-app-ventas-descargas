@@ -1,14 +1,16 @@
 {
-    "versionCode":  332,
-    "version":  "3.2.12",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.12.apk",
-    "sha256":  "31b1b01bb500cbb57e522e6e07becf52b313e5e839a9c6ee28037ff4b8a4e23c",
-    "tamano":  56829709,
-    "notas":  "En el cobro salen solo los bancos de tu centro.",
+    "versionCode":  334,
+    "version":  "3.2.14",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.14.apk",
+    "sha256":  "c5d85e78db2a1c1375909121665ea358df4d061c4efec6fdda714b0a911a986e",
+    "tamano":  56846093,
+    "notas":  "Mejoras en el catálogo de la visita y en el recibo de cobranza.",
     "novedades":  [
-                      "Al cobrar, la lista de bancos muestra solo las cuentas del centro de tu ruta y las de toda la empresa"
+                      "En el catálogo de la ruta, «Agregar todos» agrega las estrellas o el resto del catálogo, ya no lo del sugerido",
+                      "La tasa del día se muestra completa, con 4 decimales",
+                      "El recibo de cobranza dice «Resto IVA» cuando una parte del IVA ya se cobró antes"
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-19T10:33:03"
+    "publicada":  "2026-11-20T18:01:36"
 }
