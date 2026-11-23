@@ -1,16 +1,14 @@
 {
-    "versionCode":  334,
-    "version":  "3.2.14",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.14.apk",
-    "sha256":  "c5d85e78db2a1c1375909121665ea358df4d061c4efec6fdda714b0a911a986e",
+    "versionCode":  335,
+    "version":  "3.2.15",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.15.apk",
+    "sha256":  "48f68791736a3a1626d04cdf28954d19520d8178ddc5f866954e45f3bbb4c89c",
     "tamano":  56846093,
-    "notas":  "Mejoras en el catálogo de la visita y en el recibo de cobranza.",
+    "notas":  "Visita: pasos que no usa tu ruta",
     "novedades":  [
-                      "En el catálogo de la ruta, «Agregar todos» agrega las estrellas o el resto del catálogo, ya no lo del sugerido",
-                      "La tasa del día se muestra completa, con 4 decimales",
-                      "El recibo de cobranza dice «Resto IVA» cuando una parte del IVA ya se cobró antes"
+                      "Los pasos 2 y 3 de la visita salen marcados cuando tu ruta no los usa, y la visita pasa directo al pedido"
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-20T18:01:36"
+    "publicada":  "2026-11-23T13:19:19"
 }
