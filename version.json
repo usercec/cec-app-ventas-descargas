@@ -1,14 +1,14 @@
 {
-    "versionCode":  335,
-    "version":  "3.2.15",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.15.apk",
-    "sha256":  "48f68791736a3a1626d04cdf28954d19520d8178ddc5f866954e45f3bbb4c89c",
-    "tamano":  56846093,
-    "notas":  "Visita: pasos que no usa tu ruta",
+    "versionCode":  336,
+    "version":  "3.2.16",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.16.apk",
+    "sha256":  "cd5e568753ae876d8fdafc1b73957bb5fd5d33390fcf7475fecfb78659f93da4",
+    "tamano":  56850189,
+    "notas":  "Pedidos con su moneda",
     "novedades":  [
-                      "Los pasos 2 y 3 de la visita salen marcados cuando tu ruta no los usa, y la visita pasa directo al pedido"
+                      "El pedido ahora viaja con su moneda y la tasa del día, para que la oficina lo reciba completo"
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-23T13:19:19"
+    "publicada":  "2026-11-23T17:02:59"
 }
