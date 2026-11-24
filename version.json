@@ -1,15 +1,16 @@
 {
-    "versionCode":  338,
-    "version":  "3.2.18",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.18.apk",
-    "sha256":  "dba5c74952b14220ef2a808dcc097337200cbe0b1a5502f068c49fc6c6821542",
-    "tamano":  56960781,
-    "notas":  "Un cobro hecho fuera de la visita ya no marca al cliente como visitado.",
+    "versionCode":  339,
+    "version":  "3.2.19",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.19.apk",
+    "sha256":  "d3f152d6bda7b822c374d7893512ddb7f913b2a92c30c27fd406217e4c222b07",
+    "tamano":  56993549,
+    "notas":  "Tu orden de la ruta se guarda por día y queda respaldado en la oficina. En el pedido, las compras anteriores también se ven por proveedor.",
     "novedades":  [
-                      "Cobrar a un cliente desde fuera de la visita ya no lo deja como visitado en la ruta.",
-                      "En el cierre del día, ese cobro tampoco cuenta al cliente como gestionado."
+                      "El orden que armas en la Ruta (Mi orden) ahora se guarda por cada día de visita: el del martes no se pierde al mover el del miércoles.",
+                      "Ese orden queda respaldado en la oficina: si cambias de teléfono, lo recuperas al actualizar datos.",
+                      "En el paso 4, las compras anteriores (C1, C2, C3 y promedio) también salen cuando ves el pedido por proveedor."
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-24T13:54:50"
+    "publicada":  "2026-11-24T15:28:22"
 }
