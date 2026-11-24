@@ -1,14 +1,17 @@
 {
-    "versionCode":  336,
-    "version":  "3.2.16",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.16.apk",
-    "sha256":  "cd5e568753ae876d8fdafc1b73957bb5fd5d33390fcf7475fecfb78659f93da4",
-    "tamano":  56850189,
-    "notas":  "Pedidos con su moneda",
+    "versionCode":  337,
+    "version":  "3.2.17",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.17.apk",
+    "sha256":  "2d831d0edb5d478324e77538bf3e659b0eacf9e4c73f0fe3fbc1bb1cacaa97ba",
+    "tamano":  56964877,
+    "notas":  "Catálogo más claro y corrección de un cierre inesperado",
     "novedades":  [
-                      "El pedido ahora viaja con su moneda y la tasa del día, para que la oficina lo reciba completo"
+                      "El Catálogo ya no muestra artículos sin existencia",
+                      "En la ficha del artículo salen solo las promociones de tu ruta, con una etiqueta que dice por qué aplica",
+                      "Toca la foto del artículo en el Catálogo para verla en grande con sus datos",
+                      "Corregido un cierre de la app al volver a la Ruta"
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-23T17:02:59"
+    "publicada":  "2026-11-24T09:40:20"
 }
