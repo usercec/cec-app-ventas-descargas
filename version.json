@@ -1,15 +1,15 @@
 {
-    "versionCode":  341,
-    "version":  "3.2.21",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.21.apk",
-    "sha256":  "efdf790e25b3d53009d365e04dd0d4a5fa8ca9b05090ca5f09abdb55e5a60921",
+    "versionCode":  342,
+    "version":  "3.2.22",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.22.apk",
+    "sha256":  "af2173ae6818ab754906191bf7c18b0e6163492352aeb4ecb45e559ee944bf4e",
     "tamano":  57005837,
-    "notas":  "Menor consumo de memoria al actualizar datos y mayor estabilidad en teléfonos de gama baja.",
+    "notas":  "Progreso de actualización más claro en porcentaje y menor consumo de memoria.",
     "novedades":  [
-                      "Optimización de memoria al actualizar datos: reduce el pico de RAM y libera memoria al terminar.",
-                      "Mayor estabilidad en base de datos local y manejo de fotos en teléfonos de gama baja."
+                      "La ventana «Bajando tu ruta» muestra ahora el avance en porcentaje (0 % a 100 %).",
+                      "Menor consumo de memoria al actualizar datos y mayor estabilidad en teléfonos de gama baja."
                   ],
     "obligatoria":  false,
     "plazoHoras":  24,
-    "publicada":  "2026-11-25T16:39:55"
+    "publicada":  "2026-11-25T17:15:38"
 }
