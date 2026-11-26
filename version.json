@@ -1,16 +1,16 @@
 {
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.26.apk",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.27.apk",
     "plazoHoras":  24,
-    "version":  "3.2.26",
-    "publicada":  "2026-11-26T16:01:47",
+    "version":  "3.2.27",
+    "publicada":  "2026-11-26T17:22:02",
     "obligatoria":  false,
-    "sha256":  "9a629fa899059ec0d9b9ef2e6db351328f7e4a576ac13752608b46d0837f2d7d",
-    "notas":  "Cierre de Día: tabla consolidada Por proveedor (con detalle por artículo/pedido al tocar) y botón Ver (solo lectura) con todos los pasos de la visita.",
-    "tamano":  57931533,
-    "versionCode":  346,
+    "sha256":  "786b96767a2344b3d93cb265b1ecf757a66bde656687ff3bab24ba337414feaf",
+    "notas":  "Nuevo visor solo lectura de pedidos (Artículos | Por proveedor | Categorías) en Cierre de Día y Mis pedidos, con acceso a los 8 pasos de la visita.",
+    "tamano":  58148621,
+    "versionCode":  347,
     "novedades":  [
-                      "Cierre de Día · Por proveedor: resumen consolidado idéntico al Carrito (Cj. Est., Unid., Kg, Total y Total General) con buscador y filtro.",
-                      "Al tocar cualquier proveedor en la tabla verás los artículos, clientes y pedidos que originaron ese total.",
-                      "Botón \u0027Ver\u0027 en pedidos enviados de Cierre de Día: muestra el expediente en solo lectura con los 8 pasos de la visita (incluyendo Anaquel/SKU, Activos/Trade, pedidos, adicionales y cobros)."
+                      "Nuevo componente solo lectura al tocar \u0027Ver\u0027 (Cierre de Día) y \u0027Ver resumen\u0027 (Mis pedidos): muestra las 3 vistas Artículos | Por proveedor | Categorías con totales consolidados, buscador y filtro.",
+                      "Sin botones de edición ni de continuar visita (solo lectura).",
+                      "Desde Cierre de Día incluye además acceso directo a \u0027Ver pasos de la visita\u0027 (Anaquel/SKU, Activos/Trade, pedidos, adicionales y cobros)."
                   ]
 }
