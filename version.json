@@ -1,16 +1,15 @@
 {
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.23.apk",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.24.apk",
     "plazoHoras":  24,
-    "version":  "3.2.23",
-    "publicada":  "2026-11-26T10:49:58",
+    "version":  "3.2.24",
+    "publicada":  "2026-11-26T14:19:38",
     "obligatoria":  false,
-    "sha256":  "f81bba4ed808e590db42f760c306ad4384dc39549f964cb3b13336b04ce40f2e",
-    "notas":  "Pedido adicional, edición y eliminación segura de pedidos locales, y vista por proveedor en Cierre de Día.",
+    "sha256":  "14dcc85868de5160171c988a8f085e8031a07deb6d82c34a1ffb7b9aa9e1b509",
+    "notas":  "Catálogo de la ruta blindado en Paso 5: solo muestra artículos del catálogo asignado al vendedor.",
     "tamano":  57300749,
-    "versionCode":  343,
+    "versionCode":  344,
     "novedades":  [
-                      "Nuevo Pedido Adicional desde Cierre de Día y Mis Pedidos (pantalla estilo Paso 5 sin repetir la visita).",
-                      "Editar y Eliminar (con advertencia) pedidos locales que aún no han sido enviados.",
-                      "Nueva vista Por cliente | Por proveedor en Cierre de Día con navegación por proveedor y categoría."
+                      "En Paso 5 y \u0027+ Nuevo\u0027 ahora solo se muestran artículos del catálogo vinculado a la ruta del vendedor (nunca artículos fuera de catálogo).",
+                      "Las rutas sin infaltables muestran todo su catálogo directo en Paso 5 sin abrir catálogo adicional."
                   ]
 }
