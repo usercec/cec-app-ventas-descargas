@@ -1,15 +1,16 @@
 {
-    "versionCode":  342,
-    "version":  "3.2.22",
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.22.apk",
-    "sha256":  "af2173ae6818ab754906191bf7c18b0e6163492352aeb4ecb45e559ee944bf4e",
-    "tamano":  57005837,
-    "notas":  "Progreso de actualización más claro en porcentaje y menor consumo de memoria.",
-    "novedades":  [
-                      "La ventana «Bajando tu ruta» muestra ahora el avance en porcentaje (0 % a 100 %).",
-                      "Menor consumo de memoria al actualizar datos y mayor estabilidad en teléfonos de gama baja."
-                  ],
-    "obligatoria":  false,
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.23.apk",
     "plazoHoras":  24,
-    "publicada":  "2026-11-25T17:15:38"
+    "version":  "3.2.23",
+    "publicada":  "2026-11-26T10:49:58",
+    "obligatoria":  false,
+    "sha256":  "f81bba4ed808e590db42f760c306ad4384dc39549f964cb3b13336b04ce40f2e",
+    "notas":  "Pedido adicional, edición y eliminación segura de pedidos locales, y vista por proveedor en Cierre de Día.",
+    "tamano":  57300749,
+    "versionCode":  343,
+    "novedades":  [
+                      "Nuevo Pedido Adicional desde Cierre de Día y Mis Pedidos (pantalla estilo Paso 5 sin repetir la visita).",
+                      "Editar y Eliminar (con advertencia) pedidos locales que aún no han sido enviados.",
+                      "Nueva vista Por cliente | Por proveedor en Cierre de Día con navegación por proveedor y categoría."
+                  ]
 }
