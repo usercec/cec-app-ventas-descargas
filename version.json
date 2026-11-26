@@ -1,16 +1,16 @@
 {
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.25.apk",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.26.apk",
     "plazoHoras":  24,
-    "version":  "3.2.25",
-    "publicada":  "2026-11-26T14:49:44",
+    "version":  "3.2.26",
+    "publicada":  "2026-11-26T16:01:47",
     "obligatoria":  false,
-    "sha256":  "b96d171d9f2b0424d8308c8f07e246f97f1ff4d2df0b4a7d710a7a8f8cc1e5f4",
-    "notas":  "Editar y eliminar cobranzas locales no sincronizadas desde Mis cobros (con restauración segura de saldos).",
-    "tamano":  57349901,
-    "versionCode":  345,
+    "sha256":  "9a629fa899059ec0d9b9ef2e6db351328f7e4a576ac13752608b46d0837f2d7d",
+    "notas":  "Cierre de Día: tabla consolidada Por proveedor (con detalle por artículo/pedido al tocar) y botón Ver (solo lectura) con todos los pasos de la visita.",
+    "tamano":  57931533,
+    "versionCode":  346,
     "novedades":  [
-                      "Ahora puedes Editar o Eliminar cobranzas locales desde Mis cobros mientras no estén sincronizadas.",
-                      "Al eliminar una cobranza pendiente se restauran automáticamente los saldos de las facturas afectadas.",
-                      "Las cobranzas ya sincronizadas muestran la insignia Enviada y no pueden modificarse."
+                      "Cierre de Día · Por proveedor: resumen consolidado idéntico al Carrito (Cj. Est., Unid., Kg, Total y Total General) con buscador y filtro.",
+                      "Al tocar cualquier proveedor en la tabla verás los artículos, clientes y pedidos que originaron ese total.",
+                      "Botón \u0027Ver\u0027 en pedidos enviados de Cierre de Día: muestra el expediente en solo lectura con los 8 pasos de la visita (incluyendo Anaquel/SKU, Activos/Trade, pedidos, adicionales y cobros)."
                   ]
 }
