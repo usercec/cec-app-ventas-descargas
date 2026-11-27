@@ -1,16 +1,16 @@
 {
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.27.apk",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.28.apk",
     "plazoHoras":  24,
-    "version":  "3.2.27",
-    "publicada":  "2026-11-26T17:22:02",
+    "version":  "3.2.28",
+    "publicada":  "2026-11-27T10:23:53",
     "obligatoria":  false,
-    "sha256":  "786b96767a2344b3d93cb265b1ecf757a66bde656687ff3bab24ba337414feaf",
-    "notas":  "Nuevo visor solo lectura de pedidos (Artículos | Por proveedor | Categorías) en Cierre de Día y Mis pedidos, con acceso a los 8 pasos de la visita.",
-    "tamano":  58148621,
-    "versionCode":  347,
+    "sha256":  "7e00dd653164f83456d9d4e9e646c27fa3f87e78059a717f2a84b9e4879d0523",
+    "notas":  "Cobranzas: indicador Con retención / Ret. cargada / Sin retención y monto retenido de IVA (Bs.) en todas las tarjetas de facturas, más bloqueo de retenciones ya aplicadas en oficina.",
+    "tamano":  58234637,
+    "versionCode":  348,
     "novedades":  [
-                      "Nuevo componente solo lectura al tocar \u0027Ver\u0027 (Cierre de Día) y \u0027Ver resumen\u0027 (Mis pedidos): muestra las 3 vistas Artículos | Por proveedor | Categorías con totales consolidados, buscador y filtro.",
-                      "Sin botones de edición ni de continuar visita (solo lectura).",
-                      "Desde Cierre de Día incluye además acceso directo a \u0027Ver pasos de la visita\u0027 (Anaquel/SKU, Activos/Trade, pedidos, adicionales y cobros)."
+                      "Tarjetas y selectores de facturas en Cobranzas muestran si cada factura tiene retención IVA (Con retención, Ret. cargada o Sin retención) junto con el monto retenido en Bs. y N.º de comprobante.",
+                      "En Paso 2 (Retención) se muestra el bloque \u0027Ya con retención en oficina\u0027 bloqueado para evitar duplicar comprobantes.",
+                      "Conversión corregida de montoretencioniva (Bs. a moneda del documento con tasa de emisión) para cuadrar Base/IVA exacto."
                   ]
 }
