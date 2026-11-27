@@ -1,8 +1,8 @@
 {
   "producto": "AppCEC",
-  "estado": "ACTIVA",
+  "estado": "DETENIDA",
   "limpiarLocal": false,
-  "emitida": "2026-11-27T15:49:41Z",
+  "emitida": "2026-11-27T15:54:20Z",
   "mensaje": "Licencia suspendida temporalmente. Comuníquese con soporte de JarsSoft para reactivar la aplicación.",
-  "firma": "yWRsUgCsuRqrH/pYtbgglgVbyRZ4y2y80GKwDJpSuoWBOqIvJJj78HoFeFNkcrgZLO5i/gzf+G4IraZhK4yITt7Q5/tV2iSM9CqtmETltrd22cfulBc03iy5WN1NSVLwnxp5lGt92T2My1MwUbu+hnXODgwgOSUraHzENGQRkjme0u9k+VHvOxp55JqgcJ28K6WPaW1LK040wxF7N/AuFOT1yzO2lpvP2fxnSAkd49/LBhYD3bYjAA1zxv2Bv5Wee0y1Za8R0hWO0kM+JtJmrtayd8WzEG3KMPlmzloJS96Y80yoUjFXbW1jr558W0m8qwNtkvFkCEOJwOMKZ9FGNA=="
+  "firma": "kzFQfatafk62yv9YSUwtqDLuz2XWUaExzJVDQ1Grrdc03B6vSxzXxEODPXNA2+4EEuEWDELZQFIdwlBiqkNKn0FYHhvPcwLm1lEZwjfQHwofpiPP6sxd2BKhvng7FgJhVhiJNDhJYPpqfsBPCLdAg4Aka3iZrYJJ4Y3/IlDLXDVVNsZsiaDC6vbGVgspHgvXx5YiKXKJDTZ+R6e57bzsDXLiYdux3XWXb2rlsq7apcE4KuyaSVVn8UMtfFlaa+pqY5LhRoIfaoqtIM0xYwyGpR5aOQ6VeMQHZkhtY0HLFqPz/+t4j1lcKgLwAMsPpQCN3NeelnLSDYLyyZPWX89g7A=="
 }
