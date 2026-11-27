@@ -1,15 +1,15 @@
 {
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.30.apk",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.31.apk",
     "plazoHoras":  24,
-    "version":  "3.2.30",
-    "publicada":  "2026-11-27T12:10:39",
+    "version":  "3.2.31",
+    "publicada":  "2026-11-27T14:05:15",
     "obligatoria":  false,
-    "sha256":  "20f58c31ccb63184fc49c7366ce19e031d8a08f4d52cc6ba42d69b977c22814d",
-    "notas":  "Pantalla de control de licencias personalizada para Corporación El Campesino.",
-    "tamano":  58505161,
-    "versionCode":  350,
+    "sha256":  "0b5687dcbc02d0dca3b70df517da31e7534bae75846bdc0e21bbb64b9d6824c0",
+    "notas":  "Control remoto de licencias activo también al iniciar sesión y en primer plano sin cerrar la app.",
+    "tamano":  58517449,
+    "versionCode":  351,
     "novedades":  [
-                      "Pantalla de control de licencias identificada con Corporación El Campesino · Ventas en Ruta.",
-                      "Incluye verificación remota firmada (RSA-2048) y retención IVA visible en tarjetas de cobranza."
+                      "Verificación inmediata de licencia al iniciar sesión (clave o huella).",
+                      "Vigía ligero en primer plano (cada 45 s con ETag 304): bloquea sesiones abiertas automáticamente al detener la app sin necesidad de cerrarla."
                   ]
 }
