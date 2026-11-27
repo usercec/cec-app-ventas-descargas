@@ -1,8 +1,8 @@
 {
   "producto": "AppCEC",
-  "estado": "ACTIVA",
+  "estado": "DETENIDA",
   "limpiarLocal": false,
-  "emitida": "2026-11-27T16:05:47Z",
+  "emitida": "2026-11-27T16:12:49Z",
   "mensaje": "Aplicación suspendida temporalmente por Corporación El Campesino. Comuníquese con soporte técnico para reactivarla.",
-  "firma": "ZK1pYIArsjvG7rwqYwLUVXWMismFWK/ektK0SW0/9MBu9jGx2ifEnScEIA62pTni6end8waNwIqGDm3X3EVk1WR0F16gXSkYYcuN24pIAdcUHSc6i1ZZTT9b2956ByRUpBVYuz0QtF3kmqMXD4a0lpADm0XQadm4p6TIzJGYIkYmwE/QJhq+x4zjgUmjC9guNe+20vq5QKBHOGAAhz2ng1TdoleScfj3OA1d3JK7vhdX0ef4nrdX2wNbJkr/aQGPwa2vNgndDReRT3oOtyHWtGFw4bo3iTTwI5r5APlmWIJx68NFIdL/9isvv3MjaDEOh4v9M+4tT580hGUUFAfacQ=="
+  "firma": "faVnJKKOZc5N5wCEx9Ggt4QevYtkOJRyBGLvhCAWbeZevBgpsbRdJc9r+URtJXtFcSbh5zvBHtgfZ/IATgUCp8x/F76APl8dhB5lR8pI+X7hQuCi+f3kSRnHiNajj4EKg6pSMW00rwB4uTkb11Fk0OP4amMfPz91qvKM0C5H57KzgfRPHk55XwQj1mE4ZjdZiC13Ruc0z6/USGVxZuiyYdtqb4EN+JHiBHIHpYLuKBjUOPjq5w88o/kAbovLxnivXljL395V5aTp+WwPWMOWGgnOIDx4C+gdwJTPe2XSGqF5UcInFCcEoBan5Zga2P6QRlgGbdp4YCYpcvgv6xIe6Q=="
 }
