@@ -1,16 +1,15 @@
 {
-    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.28.apk",
+    "url":  "https://github.com/usercec/cec-app-ventas-descargas/raw/main/ElCampesino_Ventas_3.2.29.apk",
     "plazoHoras":  24,
-    "version":  "3.2.28",
-    "publicada":  "2026-11-27T10:23:53",
+    "version":  "3.2.29",
+    "publicada":  "2026-11-27T11:59:44",
     "obligatoria":  false,
-    "sha256":  "7e00dd653164f83456d9d4e9e646c27fa3f87e78059a717f2a84b9e4879d0523",
-    "notas":  "Cobranzas: indicador Con retención / Ret. cargada / Sin retención y monto retenido de IVA (Bs.) en todas las tarjetas de facturas, más bloqueo de retenciones ya aplicadas en oficina.",
-    "tamano":  58234637,
-    "versionCode":  348,
+    "sha256":  "a71fc86db90e3035a444d80b6b687e695539e8b8a26bfcc0c05c948bd2b8b7f4",
+    "notas":  "Control remoto de licencias firmado (RSA-2048) y retención IVA visible en tarjetas de cobranza.",
+    "tamano":  58505161,
+    "versionCode":  349,
     "novedades":  [
-                      "Tarjetas y selectores de facturas en Cobranzas muestran si cada factura tiene retención IVA (Con retención, Ret. cargada o Sin retención) junto con el monto retenido en Bs. y N.º de comprobante.",
-                      "En Paso 2 (Retención) se muestra el bloque \u0027Ya con retención en oficina\u0027 bloqueado para evitar duplicar comprobantes.",
-                      "Conversión corregida de montoretencioniva (Bs. a moneda del documento con tasa de emisión) para cuadrar Base/IVA exacto."
+                      "Verificación remota de licencia firmada criptográficamente (sin afectar el trabajo offline mientras esté activa).",
+                      "Incluye todas las mejoras de tarjetas de retención IVA en Cobranzas (v3.2.28)."
                   ]
 }
